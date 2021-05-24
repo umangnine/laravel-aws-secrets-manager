@@ -1,9 +1,9 @@
 <?php
 
-namespace Tapp\LaravelAwsSecretsManager\Tests;
+namespace Umn\LaravelAwsSecretsManager\Tests;
 
 use Orchestra\Testbench\TestCase;
-use Tapp\LaravelAwsSecretsManager\LaravelAwsSecretsManagerServiceProvider;
+use Umn\LaravelAwsSecretsManager\LaravelAwsSecretsManagerServiceProvider;
 
 class ExampleTest extends TestCase
 {

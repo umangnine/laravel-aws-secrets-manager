@@ -1,6 +1,6 @@
 <?php
 
-namespace Tapp\LaravelAwsSecretsManager;
+namespace Umn\LaravelAwsSecretsManager;
 
 use Aws\SecretsManager\SecretsManagerClient;
 use Illuminate\Support\Facades\Cache;

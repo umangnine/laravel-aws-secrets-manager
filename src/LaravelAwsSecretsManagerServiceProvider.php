@@ -1,6 +1,6 @@
 <?php
 
-namespace Tapp\LaravelAwsSecretsManager;
+namespace Umn\LaravelAwsSecretsManager;
 
 use Illuminate\Support\ServiceProvider;
 
